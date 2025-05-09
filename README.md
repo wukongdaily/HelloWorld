@@ -7,7 +7,6 @@
 |-------|-------|-------|-------|
 | [**大米饭**](https://1s.bigmeok.me/user#/register?code=9ykDiuYn)| `happy90%`| 订阅协议齐全 便宜 还送emby影音库|月付 |
 | [**牧牛云**](https://muniucloud.monster/auth/register?code=a02E) | `2025` | 订阅协议齐全 便宜 |月付 |
-| [**白月光**](https://www.sibker.com/register?code=ouYNiKJ7) | `BYG05OFFHA`<br>`BYG10OFFAN`<br>`BYG15OFFTY` | 订阅协议很齐全 用过2年 |季付 |
 | [**极客**](https://jikefind.net/auth/register?code=xoWW) | `JK666` 7折| 较大折扣  |月付 |
 | [**SuYing**](https://sy7770.com/auth/register?code=2PK9) | `SYS25` 7折| 较大折扣  |月付 |
 | [**dler cloud**](https://dler.pro/auth/register?affid=70586) | `暂无`     | 订阅协议最齐全 感觉运营7年了吧 | 季付 |
